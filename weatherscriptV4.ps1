@@ -87,7 +87,7 @@ function Get-Weather {
         write-host "`nThe date is" $clock "and the weather is" $weather "and the temperature is" $temperature "°C" 
         write-host "The sunrise is at" $sunrise "and the sunset is at" $sunset
 
-        write-host "Tomorrow the weather will be" $weathertomorrow
+        write-host "Tomorrow thse weather will be" $weathertomorrow
         }
 
 
