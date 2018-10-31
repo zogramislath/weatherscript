@@ -10,12 +10,11 @@ How the script should work:
 7. Now it should read the XML file with the function "ReadXML" and then write the actual weather to the user with function "WriteResultsToConsole"
 #>
 
+# SCRIPT NEEDS TO RUN AS ADMINISTRATOR
 
 clear-host
 
 Set-ExecutionPolicy unrestricted
-
-
 
 function Get-Weather {
 
